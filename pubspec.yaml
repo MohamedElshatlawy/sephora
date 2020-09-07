@@ -31,6 +31,9 @@ dependencies:
   smooth_star_rating: ^1.1.1
   dots_indicator: ^1.2.0
   provider: ^4.3.2
+  http: ^0.12.2
+  shared_preferences: ^0.5.10
+
 
 
 
